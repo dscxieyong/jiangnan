@@ -152,15 +152,6 @@
         </dependencies>
     </dependencyManagement>
     <repositories>
-        <!--<repository>
-            <id>souche</id>
-            <name>artifactory</name>
-            <url>https://repo.souche-inc.com/repository/public/</url>
-            <snapshots>
-                <enabled>true</enabled>
-                <updatePolicy>interval:2</updatePolicy>
-            </snapshots>
-        </repository>-->
         <repository>
             <id>spring</id>
             <url>https://maven.aliyun.com/repository/spring</url>
