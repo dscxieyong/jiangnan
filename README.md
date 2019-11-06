@@ -5,9 +5,8 @@
 * [dva.js文档](https://dvajs.com)
 * [ant.design组件库文档](https://ant.design/docs/react/practical-projects-cn)
 * [spring boot文档](https://spring.io/projects/spring-boot/)
-....
+
 ##结构说明
-* [技术方案](https://souche.yuque.com/bggh1p/8961260/xxl3nx) 
 项目一共由下面几个部分组成:
  -   asset-plenty-admin(后台管理员模块)
  -   asset-plenty-api(api接口模块)
