@@ -29,7 +29,7 @@
         <lombok.version>1.18.8</lombok.version>
         <project.encoding>UTF-8</project.encoding>
         <guava.version>27.0.1-jre</guava.version>
-        <mysql.version>5.1.47</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
         <tkmybatis.version>2.0.3</tkmybatis.version>
         <druid.starter.version>1.1.10</druid.starter.version>
         <persistence.version>1.0.2</persistence.version>
